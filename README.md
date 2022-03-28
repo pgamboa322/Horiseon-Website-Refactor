@@ -1,5 +1,8 @@
 # Horiseon Website Refactor
 
+<img width="1435" alt="image" src="https://user-images.githubusercontent.com/101015640/160329191-5463f81e-2f34-4bc6-bea1-b2e0a6c8c158.png">
+
+
 ## Description
 - The purpose of this repo was to refactor existing code to meet accessibility standards and condense the style sheet. 
 
